@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APSocialMedia</string>
+    <string name="email_hint">Please enter your email here...</string>
+    <string name="username_hint">Please enter your username here...</string>
+    <string name="password_hint">Please enter your password here...</string>
+    <string name="signup">SignUp</string>
+    <string name="signin">signin</string>
+    <string name="welcome">Welcome</string>
+    <string name="create_an_image_post">create an image post</string>
+</resources>
